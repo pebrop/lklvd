@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-size: cover;
+}
+
+.head {
+    color: white;
+    background-color: orange;
+    height: 15vh;
+    display: flex;
+}
+
+ .in {
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    position: absolute;
+    height: 5vh;
+    left: 70vw;
+    top: 10px;
+ }
+
+ .b {
+    color: white;
+    background-color: rgb(147, 214, 147);
+    border: none;
+    height: 5vh;
+ position: absolute;
+ left: 40vw;
+ top: 20vh;
+ }
